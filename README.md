@@ -1,6 +1,6 @@
 # Resume
 
-### Herasimenko Kirill Borisovich
+### Kirill Herasimenko
 
 E-mail: k.gerasimenko@gmail.com  
 Skype: goooooooooogler  
