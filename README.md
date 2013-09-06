@@ -56,7 +56,7 @@ Age: 29
  - using apache solr as no-sql storage
  - varhish for cache
 
-## Good habbits
+## Good habits
 
  - PSR-2 coding standards where applicable
  - reusable composer-compatible libraries
