@@ -2,6 +2,11 @@
 
 ### Herasimenko Kirill Borisovich
 
+E-mail: k.gerasimenko@gmail.com  
+Skype: goooooooooogler  
+Mobile: +3 8063 771 61 32  
+Age: 29  
+
 ## Desired position
 
 ### Senior php developer
