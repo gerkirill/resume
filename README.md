@@ -126,7 +126,7 @@ Most notable features I've implemented:
 
 http://icms.insign.ch/icms/android/app-localizer/
 
-written with icms, online service for localizing android applications. Entirely designed and implemented by me (architecture and database design, UI).
+Online service for localizing android applications written with icms. Entirely designed and implemented by me (architecture and database design, UI).
   - supports multiple translators working at the same time
   - supports 2 VCS systems (git, svn) and allows translators to commit their changes right fom the web application
   - integrated with automatic build system (jenkins)
