@@ -56,6 +56,7 @@ Age: 29
  - using redis as fast key-value storage
  - using apache lucene as no-sql storage
  - varhish for cache
+ - New Relic and Pinba + Pinboard for application monitoring
 
 ## Good habits
 
