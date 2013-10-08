@@ -19,6 +19,7 @@ Age: 29
 
 ## Few facts about me
 
+ - Moderate perfectionist with a focus on getting things done
  - Started php coding in 2002 (php v.4)
  - Deep knowledge of OOP, OO-Design, patterns (also patterns specific to web-development)
  - Have an experience of code review and refactoring work, performance optimization
