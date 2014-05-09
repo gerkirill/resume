@@ -29,6 +29,8 @@ Age: 29
 ## Frameworks used
 
  - symfony2
+ - silex
+ - zend framework
  - typo3flow ( http://flow.typo3.org/ )
  - icms (proprietary)
  - kohana (long ago)
@@ -63,7 +65,7 @@ Age: 29
  - PSR-2 coding standards where applicable
  - reusable composer-compatible libraries
  - automated testing
- - version control with git or svn
+ - version control with git, hg or svn
  - vagrant with virtualbox for development environments
  - write code clean, SOLID, DRY and well-commented, document design decisions
  - use xdebug for debug and profiling
@@ -73,8 +75,8 @@ Age: 29
  - 2001-2002 - AMICO - desktop applications with Delphi, customization of dotproject appication (php + mysql)
  - 2003 - GFL - tech. support specialist
  - 2004 - GFL, afternic.com - LAMP programming
-
-since 2005 till now - Insign gmbh. - Senior programmer, member of the core team, team-lead at SML (scrum) and DCD projects.
+ - 2005-2014 - Insign gmbh. - Senior programmer, member of the core team, team-lead at SML (scrum) and DCD projects.
+ - since 2014 - work for the company having one of the largest online bookstores. - Senior programmer
 
 
 ## Some of the projects I worked on
